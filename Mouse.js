@@ -8,3 +8,4 @@ Mouse.prototype.die = function() {
 };
 
 moduel.export = Mouse;
+    
